@@ -48,6 +48,7 @@ footer {
       text-align: center;
       font-size: small;
       color: var(--grey);
+      min-height: 25vh;
 }
 footer a {
       display: block;      
